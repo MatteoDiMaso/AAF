@@ -1,0 +1,2 @@
+# AAF
+Average Attributable Fraction 
